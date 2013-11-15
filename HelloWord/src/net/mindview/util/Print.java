@@ -34,4 +34,8 @@ public class Print {
     printf(String format, Object ... args) {
         return System.out.printf(format, args);
     }
+
+    public void updateGitHub(){
+
+    }
 } ///:~
